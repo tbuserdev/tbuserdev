@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am Tim, an aspiring software developer. 
+
+> Check out my developer portfolio site: [tbuser.pages.dev](https://tbuser.pages.dev/)
+
+Have fun peeking around in my repositories - have a wonderful day!
 
 <!--
 **tbuserdev/tbuserdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
