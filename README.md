@@ -1,21 +1,39 @@
-### Hi there 👋
-I am Tim, an aspiring software developer. 
+# Hey there! 👋
 
-> Check out my developer portfolio site: [tbuser.dev](https://tbuser.dev/)
+I'm **Tim**, a Computer Science student at [FHNW School of Computer Science](https://www.fhnw.ch/en/about-fhnw/schools/computer-science) in Switzerland, specializing in **web development**. 
 
-Have fun peeking around in my repositories - have a wonderful day!
+I love building **fast, modern web apps** and am passionate about the **full development lifecycle** — from writing clean code to deploying production-ready applications.
 
-<!--
-**tbuserdev/tbuserdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Check out my work and projects on my website: [**tbuser.dev**](https://tbuser.dev/)
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend Frameworks:** Svelte, React (Vite, Next.js), Astro  
+- **Styling:** Tailwind CSS (my go-to for responsive, beautiful UIs)  
+- **CMS:** Keystatic for client websites  
+- **Infrastructure & Deployment:** Docker, Cloudflare Pages, Proxmox (homelab enthusiast 💻)  
+
+## 💼 Experience & Projects
+
+- **Internship @ [youEngineering AG](https://youengineering.ch/)**  
+  Gained hands-on experience in professional web development during a year-long internship.  
+
+- **Client Websites**  
+  Built and deployed several websites using **Astro** + **Cloudflare Pages**.  
+
+- **Personal Projects**  
+  Experimenting with modern frameworks, deployment pipelines, and homelab setups.  
+
+## ⚡ Beyond Coding
+
+- 🐧 Running a **Proxmox homelab** for fun and learning  
+- ☁️ Exploring **cloud technologies** (especially Cloudflare)  
+- 🎨 Passionate about **UI/UX design** and performance optimization  
+
+## 📫 Let's Connect!
+
+- 🌍 Website: [tbuser.dev](https://tbuser.dev/)  
+<!--- 💼 LinkedIn: [Your LinkedIn Profile](#) *(add if you have one)*  -->
+- 🐙 GitHub: [@tbuserdev](https://github.com/tbuserdev)
+
+✨ *Always learning, always building.*
