@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Tim, an aspiring software developer. 
 
-> Check out my developer portfolio site: [tbuser.pages.dev](https://tbuser.pages.dev/)
+> Check out my developer portfolio site: [tbuser.dev](https://tbuser.dev/)
 
 Have fun peeking around in my repositories - have a wonderful day!
 
